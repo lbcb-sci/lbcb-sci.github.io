@@ -1,0 +1,29 @@
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 2.5rem 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.person img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;      /* crops non-square photos instead of squashing them */
+  border-radius: 50%;     /* makes the photos circular */
+}
+
+.person .name {
+  display: block;
+  font-size: 1.15rem;
+  margin-top: 0.75rem;
+}
+
+.person p { margin: 0.25rem 0; }
+
+.person a {
+  font-size: 1.5rem;
+  margin: 0 0.15rem;
+  text-decoration: none;
+}
+

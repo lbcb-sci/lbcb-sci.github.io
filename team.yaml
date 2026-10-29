@@ -1,0 +1,138 @@
+- name: Mile Šikić
+  affiliation: GIS
+  image: team/active/mile.jpg
+  email: mile_sikic@gis.a-star.edu.sg
+  status: active
+
+- name: Dominik Stanojevic
+  affiliation: GIS
+  image: team/active/dominik.png
+  status: active
+
+- name: Lovro Vrček
+  affiliation: GIS
+  image: team/active/lovro.jpg
+  github: https://github.com/lvrcek
+  status: active
+
+- name: Krešimir Križanović
+  affiliation: FER
+  image: team/active/kresimir.png
+  status: active
+
+- name: Martin Schmitz
+  affiliation: GIS, NUS
+  image: team/active/martin.png
+  status: active
+
+- name: Lin Dehui
+  affiliation: GIS
+  image: team/active/lin_dehui.jpg
+  status: active
+
+- name: Josipa Lipovac
+  affiliation: FER
+  image: team/active/josipa.jpeg
+  status: active
+
+- name: Rafael Josip Penić
+  affiliation: FER
+  image: team/active/rafael.jpg
+  github: https://github.com/RJPenic
+  status: active
+
+- name: Sara Bakić
+  affiliation: GIS, NUS
+  image: team/active/sara.jpeg
+  status: active
+
+- name: Filip Tomas 
+  affiliation: FER
+  image: team/active/filip.jpg
+  status: active
+
+- name: Ivona Martinović 
+  affiliation: GIS, NUS
+  image: team/active/ivona.jpeg
+  status: active
+
+- name: Tin Vlasic 
+  affiliation: GIS
+  image: team/active/tin.jpg
+  status: active
+
+- name: Robert Vaser
+  affiliation: PacBio
+  image: team/alumni/robert.jpg
+  status: alumni
+
+- name: Josip Maric
+  affiliation: FER
+  image: team/alumni/robert.jpg
+  status: alumni
+
+- name: Megan Huang
+  affiliation: GIS
+  image: team/alumni/megan.png
+  status: alumni
+
+- name: Ivan Sović
+  affiliation: PacBio
+  image: team/alumni/ivan.png
+  status: alumni
+
+- name: Nino Antulov Fantulin 
+  affiliation: ETH
+  image: team/alumni/nino.png
+  status: alumni
+
+- name: Matija Piškorec 
+  affiliation: IRB
+  image: team/alumni/matija.jpg
+  status: alumni
+
+- name: Filip Bosnić 
+  affiliation: FER
+  image: team/alumni/filip.png
+  status: alumni
+
+- name: Anil Kurkcu 
+  affiliation: GIS
+  image: team/alumni/anil.jpg
+  status: alumni
+
+- name: Manoj Itharajula 
+  affiliation: GIS
+  image: team/alumni/manoj.jpg
+  status: alumni
+
+- name: Andrej Dolmač 
+  affiliation: GIS
+  image: team/alumni/andrej.jpg
+  status: alumni
+
+- name: Enes Deumić 
+  affiliation: GIS
+  image: team/alumni/enes.png
+  status: alumni
+
+- name: Tvrtko Brekalo 
+  affiliation: GIS
+  image: team/alumni/tvrtko.png
+  status: alumni
+
+- name: Wayne Yeo 
+  affiliation: GIS
+  image: team/alumni/wayne.jpeg
+  status: alumni
+
+- name: Ivan Slijepčević 
+  affiliation: FER
+  image: team/alumni/ivan.png
+  status: alumni
+
+- name: Krešimir Friganović 
+  affiliation: GIS
+  image: team/alumni/kresimir.jpg
+  status: alumni
+

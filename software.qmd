@@ -1,0 +1,48 @@
+---
+title: "Software"
+---
+
+***
+
+[**PSAIA**](http://complex.zesoi.fer.hr/en/10-category-en-gb/tools-en/19-psaia-en) - PSAIA is a software tool that integrates several algorithms for protein interactions and structure geometry analysis of protein complexes into a single application.
+
+***
+
+[**RiNALMo**](https://github.com/lbcb-sci/RiNALMo) - RiboNucleic Acid Language Model (RiNALMo) is an RNA language model that achieves state-of-the-art results on several downstream tasks.
+
+***
+
+[**GNNome**](https://github.com/lbcb-sci/GNNome/tree/main) - GNNome is a framework for training graph neural networks to untangle assembly graphs obtained from OLC-based de novo genome assemblers.
+
+***
+
+[**HERRO**](https://github.com/lbcb-sci/herro/tree/main) - HERRO (Haplotype-aware ERRor cOrrection) is a highly accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1, Kit 14 reads.
+
+***
+
+[**Rockfish**](https://github.com/lbcb-sci/rockfish) - Rockfish is the deep learning based tool for detecting 5mC DNA base modifications.
+
+***
+
+[**Racon**](https://github.com/lbcb-sci/racon) - Racon is the state-of-the-art tool for the consensus and/or polishing of genome assemblies. SPOA its core module is a SIMD accelerated multiple sequence alignment tool.
+
+***
+
+[**Raven**](https://github.com/lbcb-sci/raven) - Raven is a straightforward, fast, and memory-efficient de novo assembler optimized for work with Nanopore and Pacbio CLR sequenced data.
+
+***
+
+[**Edlib**](https://github.com/martinsos/edlib) - Edlib is a lightweight, super-fast library for sequence alignment using edit (Levenshtein) distance.
+
+***
+
+[**Graphmap**](https://github.com/lbcb-sci/graphmap2) - Graphmap/Graphmap2 is a fast and sensitive tool for the alignment of DNA or RNA long reads to the reference genome.
+
+***
+
+**SW#** - SW# is a GPU accelerated tool for the calculation of the exact alignment of long sequences.
+
+***
+
+[**Spoa**](https://github.com/rvaser/spoa) - Spoa (SIMD POA) is a C++ implementation of the partial order alignment (POA) algorithm which is used to generate consensus sequences.
+

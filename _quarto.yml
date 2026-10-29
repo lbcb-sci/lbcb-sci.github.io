@@ -2,12 +2,21 @@ project:
   type: website
 
 website:
-  title: "Šikić lab"
+  title: "Šikić Lab"
+  favicon: favicon.png
+  search: false
+  site-url: https://lbcb-sci.github.io
   navbar:
+    logo: "favicon.png"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: team.qmd
+        text: Team
 
 format:
   html:

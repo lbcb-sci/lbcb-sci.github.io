@@ -1,0 +1,26 @@
+---
+title: ""
+css: team.css
+listing:
+  - id: people-active
+    contents: team.yaml
+    template: team.ejs
+    include:
+      status: active
+  - id: people-alumni
+    contents: team.yaml
+    template: team.ejs
+    include:
+      status: alumni
+---
+
+## Team
+
+::: {#people-active}
+:::
+
+## Alumni
+
+::: {#people-alumni}
+:::
+
