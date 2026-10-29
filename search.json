@@ -18,6 +18,6 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "&lt;img src=\"images/alice.jpg\" alt=\"Alice Smith\"&gt;\n&lt;span class=\"name\"&gt;Alice Smith (GIS)&lt;/span&gt;\n&lt;p&gt;\n  &lt;a href=\"mailto:alice@example.com\"&gt;&lt;i class=\"bi bi-envelope-fill\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://twitter.com/alice\"&gt;&lt;i class=\"bi bi-twitter\"&gt;&lt;/i&gt;&lt;/a&gt;\n  \n  &lt;a href=\"https://linkedin.com/in/alice\"&gt;&lt;i class=\"bi bi-linkedin\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;/p&gt;\n\n\n&lt;img src=\"images/bob.jpg\" alt=\"Bob Jones\"&gt;\n&lt;span class=\"name\"&gt;Bob Jones (FER)&lt;/span&gt;\n&lt;p&gt;\n  \n  \n  &lt;a href=\"https://github.com/bob\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;a href=\"https://linkedin.com/in/bob\"&gt;&lt;i class=\"bi bi-linkedin\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;/p&gt;\n\n\nNo matching items"
+    "text": "Alice Smith (GIS)\n\n\n\n\n\n\n\n\nBob Jones (FER)\n\n\n\n\n\n\nNo matching items"
   }
 ]
