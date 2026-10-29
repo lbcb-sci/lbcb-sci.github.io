@@ -86,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-affiliation','listing-image','listing-email','listing-twitter','listing-linkedin','listing-github',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-name","listing-affiliation","listing-image","listing-email","listing-twitter","listing-linkedin","listing-github"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -213,16 +213,32 @@ window.Quarto = {
 </header>
 
 
-<ul>
-<li></li>
-</ul>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
 <div class="people-grid">
-
+<div class="person">
+<pre><code>&lt;img src="images/alice.jpg" alt="Alice Smith"&gt;
+&lt;span class="name"&gt;Alice Smith (GIS)&lt;/span&gt;
+&lt;p&gt;
+  &lt;a href="mailto:alice@example.com"&gt;&lt;i class="bi bi-envelope-fill"&gt;&lt;/i&gt;&lt;/a&gt;
+  &lt;a href="https://twitter.com/alice"&gt;&lt;i class="bi bi-twitter"&gt;&lt;/i&gt;&lt;/a&gt;
+  
+  &lt;a href="https://linkedin.com/in/alice"&gt;&lt;i class="bi bi-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/p&gt;</code></pre>
+</div>
+<div class="person">
+<pre><code>&lt;img src="images/bob.jpg" alt="Bob Jones"&gt;
+&lt;span class="name"&gt;Bob Jones (FER)&lt;/span&gt;
+&lt;p&gt;
+  
+  
+  &lt;a href="https://github.com/bob"&gt;&lt;i class="bi bi-github"&gt;&lt;/i&gt;&lt;/a&gt;
+  &lt;a href="https://linkedin.com/in/bob"&gt;&lt;i class="bi bi-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/p&gt;</code></pre>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
