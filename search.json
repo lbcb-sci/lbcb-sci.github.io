@@ -2,35 +2,42 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Šikić lab",
+    "title": "Šikić Lab",
     "section": "",
     "text": "We are a computational group with a focus on the development of new algorithms and AI models for the analysis of DNA and RNA sequencing data, and biomolecular structures. The group is located at Genome Institute of Singapore (GIS), A*STAR and the Faculty of Electrical Engineering and Computing (FER) at the University of Zagreb, Croatia.\nBesides standard algorithms and data structure on strings and graphs, we use natural language processing, graph neural networks, and reinforcement learning. We aim to develop a state-of-the-art tool for single and metagenome assembly, detection of modified DNA and RNA nucleotides, and metagenomics classification tools. Recently we have started research in the field of the analysis of RNA structure."
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
-    "title": "Šikić lab",
+    "title": "Šikić Lab",
     "section": "Research",
     "text": "Research\n\nAlgorithms and Data Structures in Genomics\nWe aim to develop fast and memory-efficient tools for the analysis of DNA and RNA sequencing data. We have developed several state-of-the-art tools for sequence alignment (Edlib), mapping long reads (Graphmap and Graphmap2) and single and metagenome de novo genome assembly (Racon, Raven and RA) and classification of microbes from a metagenomics sample. In our work, we use classical algorithms and data structures for work with strings and graphs. In our work, we prefer using C++, which enables various levels of optimization. We use SIMD instruction (SPOA), MPI and CUDA GPU (SW#) parallelization.\n\n\nAI in Genomics\nMost of the problems in genomics one might transform into graphs, strings and raw sequencing signal. Thus, we use contemporary AI methods in graph neural networks, natural language processing and methods for audio recognition on various genomics problems such as de novo assembly, detection of DNA and RNA modification and fast detection of microbes in a sample.\n\n\nAI in Structural Biology\nUsage of AI in structural is one of the hottest topics. We use graph neural networks for representation and supervised and reinforcement learning methods for solving problems related to RNA folding and stability and protein interaction sites."
   },
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "PSAIA - PSAIA is a software tool that integrates several algorithms for protein interactions and structure geometry analysis of protein complexes into a single application.\nPSAIA - PSAIA is a software tool that integrates several algorithms for protein interactions and structure geometry analysis of protein complexes into a single application."
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Šikić lab",
+    "title": "Šikić Lab",
     "section": "",
     "text": "Mile Šikić (GIS)\n\n\n\n\n\n\n\n\nDominik Stanojevic (GIS)\n\n\n\n\n\n\n\n\nLovro Vrček (GIS)\n\n\n\n\n\n\n\n\nKrešimir Križanović (FER)\n\n\n\n\n\n\n\n\nMartin Schmitz (GIS, NUS)\n\n\n\n\n\n\n\n\nLin Dehui (GIS)\n\n\n\n\n\n\n\n\nJosipa Lipovac (FER)\n\n\n\n\n\n\n\n\nRafael Josip Penić (FER)\n\n\n\n\n\n\n\n\nSara Bakić (GIS, NUS)\n\n\n\n\n\n\n\n\nFilip Tomas (FER)\n\n\n\n\n\n\n\n\nIvona Martinović (GIS, NUS)\n\n\n\n\n\n\n\n\nTin Vlasic (GIS)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#team",
     "href": "team.html#team",
-    "title": "Šikić lab",
+    "title": "Šikić Lab",
     "section": "",
     "text": "Mile Šikić (GIS)\n\n\n\n\n\n\n\n\nDominik Stanojevic (GIS)\n\n\n\n\n\n\n\n\nLovro Vrček (GIS)\n\n\n\n\n\n\n\n\nKrešimir Križanović (FER)\n\n\n\n\n\n\n\n\nMartin Schmitz (GIS, NUS)\n\n\n\n\n\n\n\n\nLin Dehui (GIS)\n\n\n\n\n\n\n\n\nJosipa Lipovac (FER)\n\n\n\n\n\n\n\n\nRafael Josip Penić (FER)\n\n\n\n\n\n\n\n\nSara Bakić (GIS, NUS)\n\n\n\n\n\n\n\n\nFilip Tomas (FER)\n\n\n\n\n\n\n\n\nIvona Martinović (GIS, NUS)\n\n\n\n\n\n\n\n\nTin Vlasic (GIS)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#alumni",
     "href": "team.html#alumni",
-    "title": "Šikić lab",
+    "title": "Šikić Lab",
     "section": "Alumni",
     "text": "Alumni\n\n\n\n\n\nRobert Vaser (PacBio)\n\n\n\n\n\n\n\n\nJosip Maric (FER)\n\n\n\n\n\n\n\n\nMegan Huang (GIS)\n\n\n\n\n\n\n\n\nIvan Sović (PacBio)\n\n\n\n\n\n\n\n\nNino Antulov Fantulin (ETH)\n\n\n\n\n\n\n\n\nMatija Piškorec (IRB)\n\n\n\n\n\n\n\n\nFilip Bosnić (FER)\n\n\n\n\n\n\n\n\nAnil Kurkcu (GIS)\n\n\n\n\n\n\n\n\nManoj Itharajula (GIS)\n\n\n\n\n\n\n\n\nAndrej Dolmač (GIS)\n\n\n\n\n\n\n\n\nEnes Deumić (GIS)\n\n\n\n\n\n\n\n\nTvrtko Brekalo (GIS)\n\n\n\n\n\n\n\n\nWayne Yeo (GIS)\n\n\n\n\n\n\n\n\nIvan Slijepčević (FER)\n\n\n\n\n\n\n\n\nKrešimir Friganović (GIS)\n\n\n\n\n\n\nNo matching items"
   }
