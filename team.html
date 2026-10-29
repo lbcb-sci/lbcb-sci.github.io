@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-affiliation','listing-image','listing-email','listing-status','listing-github',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-name","listing-affiliation","listing-image","listing-email","listing-status","listing-github"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -98,9 +98,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-affiliation','listing-image','listing-status',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-name","listing-affiliation","listing-image","listing-status"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -219,7 +219,114 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="team">Team</h2>
 <div id="listing-people-active" class="quarto-listing quarto-listing-container-custom">
 <div class="people-grid">
+<div class="person">
+<img src="team/active/mile.jpg" alt="Mile Šikić">
+<div class="name">
+Mile Šikić (GIS)
+</div>
+<div class="links">
+<a href="mailto:mile_sikic@gis.a-star.edu.sg"><i class="bi bi-envelope-fill"></i></a>
+</div>
+</div>
+<div class="person">
+<img src="team/active/dominik.png" alt="Dominik Stanojevic">
+<div class="name">
+Dominik Stanojevic (GIS)
+</div>
+<div class="links">
 
+</div>
+</div>
+<div class="person">
+<img src="team/active/lovro.jpg" alt="Lovro Vrček">
+<div class="name">
+Lovro Vrček (GIS)
+</div>
+<div class="links">
+<a href="https://github.com/lvrcek"><i class="bi bi-github"></i></a>
+</div>
+</div>
+<div class="person">
+<img src="team/active/kresimir.png" alt="Krešimir Križanović">
+<div class="name">
+Krešimir Križanović (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/martin.png" alt="Martin Schmitz">
+<div class="name">
+Martin Schmitz (GIS, NUS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/lin_dehui.jpg" alt="Lin Dehui">
+<div class="name">
+Lin Dehui (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/josipa.jpeg" alt="Josipa Lipovac">
+<div class="name">
+Josipa Lipovac (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/rafael.jpg" alt="Rafael Josip Penić">
+<div class="name">
+Rafael Josip Penić (FER)
+</div>
+<div class="links">
+<a href="https://github.com/RJPenic"><i class="bi bi-github"></i></a>
+</div>
+</div>
+<div class="person">
+<img src="team/active/sara.jpeg" alt="Sara Bakić">
+<div class="name">
+Sara Bakić (GIS, NUS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/filip.jpg" alt="Filip Tomas">
+<div class="name">
+Filip Tomas (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/ivona.jpeg" alt="Ivona Martinović">
+<div class="name">
+Ivona Martinović (GIS, NUS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/active/tin.jpg" alt="Tin Vlasic">
+<div class="name">
+Tin Vlasic (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
@@ -228,7 +335,141 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
 <div id="listing-people-alumni" class="quarto-listing quarto-listing-container-custom">
 <div class="people-grid">
+<div class="person">
+<img src="team/alumni/robert.jpg" alt="Robert Vaser">
+<div class="name">
+Robert Vaser (PacBio)
+</div>
+<div class="links">
 
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/robert.jpg" alt="Josip Maric">
+<div class="name">
+Josip Maric (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/megan.png" alt="Megan Huang">
+<div class="name">
+Megan Huang (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/ivan.png" alt="Ivan Sović">
+<div class="name">
+Ivan Sović (PacBio)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/nino.png" alt="Nino Antulov Fantulin">
+<div class="name">
+Nino Antulov Fantulin (ETH)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/matija.jpg" alt="Matija Piškorec">
+<div class="name">
+Matija Piškorec (IRB)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/filip.png" alt="Filip Bosnić">
+<div class="name">
+Filip Bosnić (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/anil.jpg" alt="Anil Kurkcu">
+<div class="name">
+Anil Kurkcu (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/manoj.jpg" alt="Manoj Itharajula">
+<div class="name">
+Manoj Itharajula (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/andrej.jpg" alt="Andrej Dolmač">
+<div class="name">
+Andrej Dolmač (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/enes.png" alt="Enes Deumić">
+<div class="name">
+Enes Deumić (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/tvrtko.png" alt="Tvrtko Brekalo">
+<div class="name">
+Tvrtko Brekalo (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/wayne.jpeg" alt="Wayne Yeo">
+<div class="name">
+Wayne Yeo (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/ivan.png" alt="Ivan Slijepčević">
+<div class="name">
+Ivan Slijepčević (FER)
+</div>
+<div class="links">
+
+</div>
+</div>
+<div class="person">
+<img src="team/alumni/kresimir.jpg" alt="Krešimir Friganović">
+<div class="name">
+Krešimir Friganović (GIS)
+</div>
+<div class="links">
+
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
