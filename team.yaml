@@ -1,8 +1,10 @@
 - name: Mile Šikić
   affiliation: GIS
   image: team/active/mile.jpg
-  email: mile_sikic@gis.a-star.edu.sg
   status: active
+  email: mile_sikic@gis.a-star.edu.sg
+  linkedin: https://www.linkedin.com/in/milesikic/
+  scholar: https://scholar.google.com/citations?user=EK7apmcAAAAJ&hl=en&oi=ao
 
 - name: Dominik Stanojevic
   affiliation: GIS
@@ -14,6 +16,8 @@
   image: team/active/lovro.jpg
   github: https://github.com/lvrcek
   status: active
+  github: https://github.com/lvrcek
+  linkedin: https://www.linkedin.com/in/lovro-vr%C4%8Dek
 
 - name: Krešimir Križanović
   affiliation: FER
@@ -22,18 +26,19 @@
 
 - name: Martin Schmitz
   affiliation: GIS, NUS
-  image: team/active/martin.png
-  status: active
+  image: team/alumni/martin.png
+  status: alumni
 
 - name: Lin Dehui
   affiliation: GIS
-  image: team/active/lin_dehui.jpg
-  status: active
+  image: team/alumni/lin_dehui.jpg
+  status: alumni
 
 - name: Josipa Lipovac
   affiliation: FER
   image: team/active/josipa.jpeg
   status: active
+  linkedin: https://www.linkedin.com/in/josipa-lipovac-7316aa1b6
 
 - name: Rafael Josip Penić
   affiliation: FER
@@ -42,24 +47,36 @@
   status: active
 
 - name: Sara Bakić
-  affiliation: GIS, NUS
-  image: team/active/sara.jpeg
-  status: active
+  affiliation: ETH, NUS
+  image: team/alumni/sara.jpeg
+  status: alumni
+  linkedin: https://www.linkedin.com/in/sara-bakic
 
 - name: Filip Tomas 
   affiliation: FER
   image: team/active/filip.jpg
   status: active
+  linkedin: https://www.linkedin.com/in/filip-tomas-566335182
 
 - name: Ivona Martinović 
   affiliation: GIS, NUS
   image: team/active/ivona.jpeg
   status: active
+  linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5
 
 - name: Tin Vlasic 
   affiliation: GIS
   image: team/active/tin.jpg
   status: active
+  linkedin: https://www.linkedin.com/in/tin-vlasic
+
+- name: Maxime Rochkoulets 
+  affiliation: GIS
+  image: team/active/maxime.png
+  status: active
+  github: https://github.com/mrochk
+  scholar: https://scholar.google.com/citations?user=d8uMxiYAAAAJ&hl=en&oi=ao
+  linkedin: http://linkedin.com/in/mrochk
 
 - name: Robert Vaser
   affiliation: PacBio
@@ -68,7 +85,7 @@
 
 - name: Josip Maric
   affiliation: FER
-  image: team/alumni/robert.jpg
+  image: team/alumni/josip.png
   status: alumni
 
 - name: Megan Huang

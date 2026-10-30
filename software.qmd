@@ -46,3 +46,4 @@ title: "Software"
 
 [**Spoa**](https://github.com/rvaser/spoa) - Spoa (SIMD POA) is a C++ implementation of the partial order alignment (POA) algorithm which is used to generate consensus sequences.
 
+***

@@ -3,7 +3,7 @@
 <div class="person">
 <img src="<%= item.image %>" alt="<%= item.name %>">
 <div class="name"><%= item.name %> (<%= item.affiliation %>)</div>
-<div class="links"><% if (item.email) { %><a href="mailto:<%= item.email %>"><i class="bi bi-envelope-fill"></i></a><% } %><% if (item.twitter) { %><a href="<%= item.twitter %>"><i class="bi bi-twitter"></i></a><% } %><% if (item.github) { %><a href="<%= item.github %>"><i class="bi bi-github"></i></a><% } %><% if (item.linkedin) { %><a href="<%= item.linkedin %>"><i class="bi bi-linkedin"></i></a><% } %></div>
+<div class="links"><% if (item.email) { %><a href="mailto:<%= item.email %>" title="<%= item.email %>"><i class="bi bi-envelope-fill"></i></a><% } %><% if (item.scholar) { %><a href="<%= item.scholar %>" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a><% } %><% if (item.twitter) { %><a href="<%= item.twitter %>"><i class="bi bi-twitter"></i></a><% } %><% if (item.github) { %><a href="<%= item.github %>"><i class="bi bi-github"></i></a><% } %><% if (item.linkedin) { %><a href="<%= item.linkedin %>"><i class="bi bi-linkedin"></i></a><% } %></div>
 </div>
 <% } %>
 </div>

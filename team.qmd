@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "Team"
 css: team.css
+include-in-header:
+    text: |
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
 listing:
   - id: people-active
     contents: team.yaml
@@ -13,8 +16,6 @@ listing:
     include:
       status: alumni
 ---
-
-## Team
 
 ::: {#people-active}
 :::
