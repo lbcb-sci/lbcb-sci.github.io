@@ -70,6 +70,12 @@
   status: active
   linkedin: https://www.linkedin.com/in/tin-vlasic
 
+- name: Srđan Maširević 
+  affiliation: GIS
+  image: team/active/srdan.jpeg
+  status: active
+  linkedin: https://www.linkedin.com/in/sr%C4%91an-ma%C5%A1irevi%C4%87-phd-477235a8
+
 - name: Maxime Rochkoulets 
   affiliation: GIS
   image: team/active/maxime.png

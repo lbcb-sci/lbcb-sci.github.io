@@ -17,6 +17,8 @@ website:
         text: Software
       - href: team.qmd
         text: Team
+      - href: positions.qmd
+        text: Open Postions
 
 format:
   html:
