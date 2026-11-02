@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lbcb-sci.github.io/index.html</loc>
-    <lastmod>2026-10-29T07:57:13.122Z</lastmod>
+    <lastmod>2026-11-02T04:38:25.598Z</lastmod>
   </url>
   <url>
-    <loc>https://lbcb-sci.github.io/publications.html</loc>
-    <lastmod>2026-10-29T08:49:56.729Z</lastmod>
+    <loc>https://lbcb-sci.github.io/team.html</loc>
+    <lastmod>2026-10-30T10:07:10.134Z</lastmod>
   </url>
   <url>
     <loc>https://lbcb-sci.github.io/software.html</loc>
     <lastmod>2026-10-29T08:39:46.779Z</lastmod>
   </url>
   <url>
-    <loc>https://lbcb-sci.github.io/team.html</loc>
-    <lastmod>2026-10-30T10:07:10.134Z</lastmod>
+    <loc>https://lbcb-sci.github.io/publications.html</loc>
+    <lastmod>2026-11-02T04:38:35.195Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lbcb-sci.github.io/positions.html</loc>
+    <lastmod>2026-11-02T04:38:52.634Z</lastmod>
   </url>
 </urlset>
