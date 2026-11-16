@@ -20,5 +20,5 @@ Most of the problems in genomics one might transform into graphs, strings and ra
 
 ### AI in Structural Biology
 
-Usage of AI in structural is one of the hottest topics. We use graph neural networks for representation and supervised and reinforcement learning methods for solving problems related to RNA folding and stability and protein interaction sites.
+Usage of AI in structural biology is one of the hottest topics. We use graph neural networks for representation and supervised and reinforcement learning methods for solving problems related to RNA folding and stability and protein interaction sites.
 

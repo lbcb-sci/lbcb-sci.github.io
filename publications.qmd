@@ -1,3 +1,13 @@
 ---
 title: "Publications"
+css: publications.css
+listing:
+  id: pubs
+  contents: publications.yaml
+  template: publications.ejs
 ---
+
+::: {#pubs}
+:::
+
+[more publications...](https://scholar.google.hr/citations?view_op=list_works&hl=en&hl=en&user=EK7apmcAAAAJ&sortby=pubdate)

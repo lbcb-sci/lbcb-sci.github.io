@@ -6,11 +6,6 @@
   linkedin: https://www.linkedin.com/in/milesikic/
   scholar: https://scholar.google.com/citations?user=EK7apmcAAAAJ&hl=en&oi=ao
 
-- name: Dominik Stanojevic
-  affiliation: GIS
-  image: team/active/dominik.png
-  status: active
-
 - name: Lovro Vrček
   affiliation: GIS
   image: team/active/lovro.jpg
@@ -18,6 +13,13 @@
   status: active
   github: https://github.com/lvrcek
   linkedin: https://www.linkedin.com/in/lovro-vr%C4%8Dek
+
+- name: Dominik Stanojevic
+  affiliation: GIS
+  image: team/active/dominik.jpg
+  status: active
+  github: https://github.com/dominikstanojevic
+  linkedin: https://www.linkedin.com/in/dominik-stanojevic
 
 - name: Krešimir Križanović
   affiliation: FER
@@ -58,11 +60,17 @@
   status: active
   linkedin: https://www.linkedin.com/in/filip-tomas-566335182
 
-- name: Ivona Martinović 
-  affiliation: GIS, NUS
-  image: team/active/ivona.jpeg
+- name: Srđan Maširević 
+  affiliation: GIS
+  image: team/active/srdan.jpeg
   status: active
-  linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5
+  linkedin: https://www.linkedin.com/in/sr%C4%91an-ma%C5%A1irevi%C4%87-phd-477235a8
+
+- name: Satria Kautsar
+  affiliation: GIS
+  image: team/active/satria.jpg
+  status: active
+  linkedin: https://www.linkedin.com/in/satriaphd
 
 - name: Tin Vlasic 
   affiliation: GIS
@@ -70,11 +78,11 @@
   status: active
   linkedin: https://www.linkedin.com/in/tin-vlasic
 
-- name: Srđan Maširević 
-  affiliation: GIS
-  image: team/active/srdan.jpeg
+- name: Ivona Martinović 
+  affiliation: GIS, NUS
+  image: team/active/ivona.jpeg
   status: active
-  linkedin: https://www.linkedin.com/in/sr%C4%91an-ma%C5%A1irevi%C4%87-phd-477235a8
+  linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5
 
 - name: Maxime Rochkoulets 
   affiliation: GIS
